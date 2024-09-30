@@ -1,0 +1,33 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    color: blue;
+    font-size: 24px;
+}
+
+.box {
+    color: brown;
+    font-size: 40px;
+    font-weight: bold;
+    background-color: bisque;
+}
+
+#Unique {
+    color: rgb(0, 255, 187);
+    font-size: 80px;
+}
+
+.box2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 45px;
+    line-height: 40px;
+}
+
+.box3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 55px;
+    color: rgb(3, 133, 133);
+    background-color: rgb(255, 0, 174);
+}
